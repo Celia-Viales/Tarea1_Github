@@ -1,3 +1,5 @@
+CELIA MERCEDES VIALES PÉREZ
+
 # Code and data from Waskom & Kiani (2018)
 
 This repository contains data and analysis code for the following paper:
